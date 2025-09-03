@@ -92,5 +92,3 @@ Must choose: lead resistance, guide assimilation, or embrace inevitability.
 
 ---
 
-## Placement
-`03_Stories/Seeds/Simulacrum_Return.md`

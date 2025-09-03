@@ -37,5 +37,4 @@ Explains how Entheos manipulates **time dilation** and **magical pressure equili
 
 ---
 
-## Placement
-`01_Core/Time & Pressure Systems.md`
+
