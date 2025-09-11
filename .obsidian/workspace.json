@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Core/Magic Systems.md",
+                "file": "03_Stories/MMO_Rebirth_Seed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic Systems"
+              "title": "MMO_Rebirth_Seed"
             }
           }
         ],
@@ -183,27 +183,32 @@
   },
   "active": "023c7d94d43cfffd",
   "lastOpenFiles": [
-    "01_Core/Time_&_Pressure_Systems.md",
-    "Suggestions.md",
     "01_Core/Entheos_Update_Snippet.md",
+    "01_Core/Magic Circle System (Entheos).pdf",
+    "01_Core/Entheos_Magic_Circle.md",
+    "01_Core/Aether_Physics_WillForce.md",
+    "01_Core/Aether_Physics_WillForce 1.md",
+    "Untitled.md",
+    "03_Stories/MMO_Rebirth_Seed.md",
+    "01_Core/Assimilation Cycle.md",
+    "01_Core/Essence of the Dungeon.md",
     "01_Core/Magic Systems.md",
+    "01_Core/Time_&_Pressure_Systems.md",
+    "01_Core/Entheos.md",
+    "04_style_guide/system_text_syntax.md",
+    "01_Core/Entrances.md",
+    "Suggestions.md",
     "05_mechanics/system_text_syntax.md",
     "05_mechanics/system_text_lexicon.md",
     "03_Stories/Woodcutters_Path.md",
     "03_Stories/Story Seeds.md",
     "03_Stories/Story Frameworks.md",
     "03_Stories/Simulacrum_Return.md",
-    "03_Stories/MMO_Rebirth_Seed.md",
     "05_mechanics",
     "05_",
     "New folder",
-    "04_style_guide/system_text_syntax.md",
     "04_style_guide",
-    "01_Core/Entheos.md",
     "01_Core/Ecology & Monsters.md",
-    "01_Core/Assimilation Cycle.md",
-    "01_Core/Essence of the Dungeon.md",
-    "01_Core/Entrances.md",
     "02_Societies/Civilization Hubs.md",
     "00_Index/Dungeon Bible.md"
   ]
